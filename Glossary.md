@@ -42,7 +42,7 @@ See sõnastik sisaldab programmeerimises kasutatavaid termineid inglise ja eesti
 | Class field | Klassiväli | `static` modifikaatoriga väli, mis kuulub klassile endale |
 | Local variable | Lokaalmuutuja | Plokis deklareeritud muutuja, ligipääsetav ainult selles plokis |
 | Variable initializer | Muutuja algväärtustaja | Avaldis või massiivi algväärtustaja, mis seab muutuja algväärtuse |
-| Default value | Väike-algväärtus | Väärtus, mis määratakse automaatselt muutuja loomisel (nt `0` numbrilistele tüüpidele, `null` viitetüüpidele) |
+| Default value | Vaike-algväärtus | Väärtus, mis määratakse automaatselt muutuja loomisel (nt `0` numbrilistele tüüpidele, `null` viitetüüpidele) |
 | Widening primitive conversion | Laiendav primitiivteisendus | Teisendus primitiivsete tüüpide vahel ilma informatsiooni kaotuseta |
 | Narrowing primitive conversion | Kitsendav primitiivteisendus | Teisendus primitiivsete tüüpide vahel võimaliku informatsiooni kaotusega |
 

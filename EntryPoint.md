@@ -1,11 +1,5 @@
 # Programmeerimise Põhimõisted ja -tehnikad
 
-## Kursuse Ülevaade
-
-Tere tulemast programmeerimise kursusele! See kursus keskendub algoritmilise mõtlemise arendamisele, andmestruktuuride mõistmisele ja probleemilahenduse oskuste täiustamisele. Kuigi mitmed programmeerimiskeeled sobivad nende kontseptsioonide õppimiseks, kasutame selles kursuses Java programmeerimiskeelt.
-
-Siin dokumendis leiad viiteid kõikidele kursusmaterjalidele, mis on organiseeritud loogiliselt, et toetada sinu õpikogemust. Iga dokument sisaldab nii ingliskeelseid kui ka eestikeelseid termineid, et aidata sul navigeerida rahvusvahelises programmeerimismaailmas, säilitades samal ajal eestikeelse terminoloogia tundmise.
-
 ## Õppematerjalide Struktuur
 
 ### [1. Java Programmeerimise Alused](Java_Fundamentals.md)
@@ -77,8 +71,6 @@ Siin dokumendis leiad viiteid kõikidele kursusmaterjalidele, mis on organiseeri
 
 ## Õppimise Teekaart
 
-Algajatele soovitame järgida materjalide läbimist järgmises järjekorras:
-
 1. Java Programmeerimise Alused
 2. Andmestruktuurid
 3. Ajakeerukus
@@ -87,8 +79,6 @@ Algajatele soovitame järgida materjalide läbimist järgmises järjekorras:
 6. Probleemilahenduse Mustrid
 7. Programmeerimisülesannete Kategooriad
 
-Kui oled juba programmeerimisega tuttav, võid alustada oma teadmiste lünkade täitmisega.
-
 ## Üldised Nõuanded Algoritmilise Mõtlemise Arendamiseks
 
 1. **Lahenda regulaarselt probleeme** - harjutamine on ainus tee meisterlikkuse poole
@@ -96,5 +86,3 @@ Kui oled juba programmeerimisega tuttav, võid alustada oma teadmiste lünkade t
 3. **Õpi teiste koodist** - vaata, kuidas teised on sarnaseid probleeme lahendanud
 4. **Joonista algoritme visuaalselt** - joonistamine aitab mõista algoritme paremini
 5. **Rakenda teadmisi kohe** - kui õpid uue tehnika, leia viis seda kohe rakendada
-
-Head õppimist ja probleemide lahendamist!
